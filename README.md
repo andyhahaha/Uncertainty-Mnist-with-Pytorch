@@ -33,7 +33,7 @@ python main.py --mode 2
 ```
 
 ## Result
-These result show the uncertainty of different rotated digits.
+These results show the uncertainty of different rotated digits.
 
 <table>
   <tr>
