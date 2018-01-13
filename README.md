@@ -33,5 +33,57 @@ python main.py --mode 2
 ```
 
 ## Result
+These result show the uncertainty of different rotated digits.
 
+<table>
+  <tr>
+    <td>0</td>
+    <td>1</td>
 
+  </tr>
+  <tr>
+    <td><img src="images/Digit0.png"/></td>
+    <td><img src="images/Digit1.png"/></td>
+
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>3</td>
+
+  </tr>
+  <tr>
+    <td><img src="images/Digit2.png"/></td>
+    <td><img src="images/Digit3.png"/></td>
+  </tr>
+  
+  <tr>
+    <td>4</td>
+    <td>5</td>
+
+  </tr>
+  <tr>
+    <td><img src="images/Digit4.png"/></td>
+    <td><img src="images/Digit5.png"/></td>
+  </tr>
+  
+  <tr>
+    <td>6</td>
+    <td>7</td>
+
+  </tr>
+  <tr>
+    <td><img src="images/Digit6.png"/></td>
+    <td><img src="images/Digit7.png"/></td>
+  </tr>
+  
+  <tr>
+    <td>8</td>
+    <td>9</td>
+
+  </tr>
+  <tr>
+    <td><img src="images/Digit8.png"/></td>
+    <td><img src="images/Digit9.png"/></td>
+  </tr>
+ 
+</table>
